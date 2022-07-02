@@ -67,4 +67,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 1. In .env file change the database name to code_byte_todo
 2. run the migration using php artisan migrate.
+3. todos table will created
+4. to run laravel use command php artisan serve
+5. Hit localhost:8000/todo to see the landing page for todos list.
+6. Click on add new to create
+7. View, edit and delete to show , update and delete todos respectively.
 
